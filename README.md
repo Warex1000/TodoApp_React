@@ -1,4 +1,4 @@
-Todo_App
+#Todo App (React)
 
 ### `npm test`
 Launches the test runner in the interactive watch mode.\
